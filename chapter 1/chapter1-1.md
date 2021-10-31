@@ -68,9 +68,9 @@ P = I'll have mashed potatoes
 
 (c)
 
-X = 3 is a common divisor of 6
-Y = 3 is a common divisor of 9
-Z = 3 is a common divisor of 15
+X = 3 is a divisor of 6
+Y = 3 is a divisor of 9
+Z = 3 is a divisor of 15
 
 X ∧ Y ∧ Z
 
